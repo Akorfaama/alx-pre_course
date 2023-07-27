@@ -1,2 +1,2 @@
-!/bini/bashi
-echo "ALX"
+#!/bin/bash
+echo "ALX School"
